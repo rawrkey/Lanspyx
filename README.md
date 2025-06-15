@@ -1,4 +1,4 @@
-# 🔍 LANSpyX v2
+# 🔍 LANSpyX
 
 **LANSpyX** is a powerful and advanced LAN threat mapper and analysis tool built for Kali Linux and other pentesting environments.
 
