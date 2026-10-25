@@ -18,7 +18,7 @@
 
 ```bash
 # Clone it
-git clone https://github.com/kalpiy/lanspyx.git
+git clone https://github.com/rawrkey/lanspyx.git
 cd lanspyx
 
 # Install dependencies
